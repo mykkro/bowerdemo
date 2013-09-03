@@ -1,0 +1,29 @@
+{
+  "name": "bowerdemo",
+  "version": "0.0.1",
+  "authors": [
+    "Myrousz <myrousz@gmail.com>"
+  ],
+  "description": "Sample Bower package",
+  "main": "index.html",
+  "keywords": [
+    "demo"
+  ],
+  "dependencies": {
+    "jquery": "latest",
+    "underscore": "latest",
+    "ractive": "latest",
+    "d3": "latest",
+    "requirejs": "latest",
+    "less": "latest"
+  },
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
