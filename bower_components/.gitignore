@@ -10,3 +10,7 @@ jquery/*
 
 # pick jquery
 !jquery/jquery.js
+
+!requirejs
+requirejs/*
+!requirejs/require.js
