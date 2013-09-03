@@ -15,7 +15,8 @@
     "ractive": "latest",
     "d3": "latest",
     "requirejs":"latest",
-    "foundation":"latest"
+    "foundation":"latest",
+    "modernizr":"latest"
   },
   "license": "MIT",
   "private": true,

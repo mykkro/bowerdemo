@@ -14,3 +14,5 @@ jquery/*
 !requirejs
 requirejs/*
 !requirejs/require.js
+
+!foundation
