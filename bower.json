@@ -13,9 +13,7 @@
     "jquery": "latest",
     "underscore": "latest",
     "ractive": "latest",
-    "d3": "latest",
-    "requirejs": "latest",
-    "less": "latest"
+    "d3": "latest"
   },
   "license": "MIT",
   "private": true,
