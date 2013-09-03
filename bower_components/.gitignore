@@ -1,3 +1,12 @@
+# ignore all packages
 *
+
+# leave gitignore
 !.gitignore
+
+# leave only jquery directory 
+!jquery
+jquery/*
+
+# pick jquery
 !jquery/jquery.js
