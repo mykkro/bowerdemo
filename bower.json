@@ -14,7 +14,8 @@
     "underscore": "latest",
     "ractive": "latest",
     "d3": "latest",
-    "requirejs":"latest"
+    "requirejs":"latest",
+    "foundation":"latest"
   },
   "license": "MIT",
   "private": true,
